@@ -1,4 +1,3 @@
-
 Feature: The product store service back-end
     As a Product Store Owner
     I need a RESTful catalog service
